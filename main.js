@@ -32,9 +32,9 @@ var GoodsList = React.createClass({
         // contentType: "appcation/json",
         data: {
           "command":"10001",
-          "root":"{\"pageSize\":200,\"page\":1}",
+          "root":"{\"pageSize\":1000,\"page\":1}",
           "version":"1.1",
-          "sign":"7c6cca9bf9216c41c6986ee2cf510d79"
+          "sign":"7d75d22adacf36f4f664e9a80ebb4007"
         },
         headers: {
           Accept:"text/plain, */*; q=0.01",
